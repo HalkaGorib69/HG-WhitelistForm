@@ -46,7 +46,7 @@
 				"options": [
 					{ "label": "Govt. Job", "value": "govt" },
 					{ "label": "Civilian", "value": "civilian" },
-					{ "label": "Gangster", "value": "gangster" },
+					{ "label": "Gangstar", "value": "gangstar" },
 					{ "label": "Other", "value": "other", "toggleReason": true }
 				]
 			},

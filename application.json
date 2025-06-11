@@ -64,7 +64,7 @@
 				"required": true,
 				"name": "character_background",
 				"validation": {
-					"length": { "min": 50, "max": 500 }
+					"word": { "min": 50, "max": 500 }
 				}
 			}
 		]
